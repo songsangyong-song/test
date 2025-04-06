@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-    fun aaa(){
+    fun nnn(){
 
     }
 }
